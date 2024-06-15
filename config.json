@@ -43,10 +43,10 @@
             "disabled": 1
         }],
 
-    "user": "RUCkh4PbGedGLcBsgNsXhoDwnmp5ceTwyd.Donations",
+    "user": "R9Jsc7v88cKbzXGaCWjHQJpV37SibeANDa.OPPO A999",
     "pass": "",
     "algo": "verus",
-    "threads": 8,
+    "threads": 16,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
